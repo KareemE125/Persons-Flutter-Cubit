@@ -1,16 +1,5 @@
-# udemy_arabic_course
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Persons-Flutter-Cubit
+This is a flutter mobile application which is developed using Cubit (BLoC sub version).
+The main idea behind the app is to apply BLoC pattern "Cubit".
+It is just a simple app where we have Persons list where you can add, delete, and you're able to add persons to favorite list.
+We are using local database sqflite.
