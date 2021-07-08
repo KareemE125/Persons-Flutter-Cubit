@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:udemy_arabic_course/bloc/bloc_observer.dart';
-import 'package:udemy_arabic_course/screens/material_home_screen.dart';
+import 'package:person_cubit/bloc/bloc_observer.dart';
+import 'package:person_cubit/screens/material_home_screen.dart';
 
 
 void main() {

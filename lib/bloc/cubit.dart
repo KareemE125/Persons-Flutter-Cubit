@@ -1,11 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:udemy_arabic_course/bloc/cubit_states.dart';
-import 'package:udemy_arabic_course/models/person.dart';
-import 'package:udemy_arabic_course/screens/home_screen.dart';
-import 'package:udemy_arabic_course/screens/favorites_screen.dart';
-import 'package:udemy_arabic_course/screens/persons_screen.dart';
-import 'package:udemy_arabic_course/database/sql_db.dart' as db;
+import 'package:person_cubit/bloc/cubit_states.dart';
+import 'package:person_cubit/models/person.dart';
+import 'package:person_cubit/screens/home_screen.dart';
+import 'package:person_cubit/screens/favorites_screen.dart';
+import 'package:person_cubit/screens/persons_screen.dart';
+import 'package:person_cubit/database/sql_db.dart' as db;
 
 class AppCubit extends Cubit<AppStates> {
 

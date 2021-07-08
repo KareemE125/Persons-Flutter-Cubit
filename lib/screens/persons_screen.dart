@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:udemy_arabic_course/bloc/cubit.dart';
-import 'package:udemy_arabic_course/bloc/cubit_states.dart';
-import 'package:udemy_arabic_course/components/screen_list.dart';
+import 'package:person_cubit/bloc/cubit.dart';
+import 'package:person_cubit/bloc/cubit_states.dart';
+import 'package:person_cubit/components/screen_list.dart';
 
 
 class PersonsScreen extends StatelessWidget {

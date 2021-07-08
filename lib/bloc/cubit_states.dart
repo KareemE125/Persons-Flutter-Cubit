@@ -1,4 +1,4 @@
-import 'package:udemy_arabic_course/database/sql_db.dart' as db;
+import 'package:person_cubit/database/sql_db.dart' as db;
 
 abstract class AppStates{}
 

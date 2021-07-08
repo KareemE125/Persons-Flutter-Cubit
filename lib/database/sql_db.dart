@@ -1,6 +1,6 @@
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
-import 'package:udemy_arabic_course/models/person.dart';
+import 'package:person_cubit/models/person.dart';
 
 
 const TABLE_NAME = 'Persons';
